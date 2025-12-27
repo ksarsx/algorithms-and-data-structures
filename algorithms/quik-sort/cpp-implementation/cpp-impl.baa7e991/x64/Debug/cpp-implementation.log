@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\daila\home\projects\algorithms-and-data-structures\algorithms\quik-sort\cpp-implementation\Source.cpp(56,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\daila\home\projects\algorithms-and-data-structures\algorithms\quik-sort\cpp-implementation\Source.cpp(26,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\daila\home\projects\algorithms-and-data-structures\algorithms\quik-sort\cpp-implementation\Source.cpp(31,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  cpp-implementation.vcxproj -> C:\daila\home\projects\algorithms-and-data-structures\algorithms\quik-sort\cpp-implementation\x64\Debug\cpp-implementation.exe

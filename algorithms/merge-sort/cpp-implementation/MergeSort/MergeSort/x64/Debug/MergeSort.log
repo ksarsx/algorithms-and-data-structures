@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\daila\home\projects\algorithms-and-data-structures\algorithms\merge-sort\cpp-implementation\MergeSort\Source.cpp(30,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MergeSort.vcxproj -> C:\daila\home\projects\algorithms-and-data-structures\algorithms\merge-sort\cpp-implementation\MergeSort\x64\Debug\MergeSort.exe

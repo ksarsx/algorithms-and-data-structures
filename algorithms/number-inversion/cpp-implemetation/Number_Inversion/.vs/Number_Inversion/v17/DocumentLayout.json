@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\daila\\home\\projects\\algorithms-and-data-structures\\algorithms\\number-inversion\\cpp-implemetation\\Number_Inversion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7687DCC-75E5-482E-AD0E-B27A59E984D1}|Number_Inversion.vcxproj|C:\\daila\\home\\projects\\algorithms-and-data-structures\\algorithms\\number-inversion\\cpp-implemetation\\Number_Inversion\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7687DCC-75E5-482E-AD0E-B27A59E984D1}|Number_Inversion.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\daila\\home\\projects\\algorithms-and-data-structures\\algorithms\\number-inversion\\cpp-implemetation\\Number_Inversion\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\daila\\home\\projects\\algorithms-and-data-structures\\algorithms\\number-inversion\\cpp-implemetation\\Number_Inversion\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-27T15:31:48.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

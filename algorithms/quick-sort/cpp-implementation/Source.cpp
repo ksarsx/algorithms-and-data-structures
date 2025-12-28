@@ -1,4 +1,4 @@
-#include <iostream>
+п»ї#include <iostream>
 #include <vector>
 #include <random>
 using namespace std;
@@ -9,14 +9,14 @@ vector<int> Partition(vector<T>& arr, int start, int finish, T x) {
 	vector<T> C;
 	vector<T> D;
 
-	// заполнение B, C, D
+	// Р·Р°РїРѕР»РЅРµРЅРёРµ B, C, D
 	for (int i = start; i < finish; i++) {
 		if (arr[i] < x) B.push_back(arr[i]);
 		else if (arr[i] == x) C.push_back(arr[i]);
 		else D.push_back(arr[i]);
 	}
 
-	// смена структуры исходного массива в [B .. C .. D]
+	// СЃРјРµРЅР° СЃС‚СЂСѓРєС‚СѓСЂС‹ РёСЃС…РѕРґРЅРѕРіРѕ РјР°СЃСЃРёРІР° РІ [B .. C .. D]
 	int b = 0;
 	for (int i = start; i < (start + B.size()); i++) {
 		arr[i] = B[b];
@@ -41,7 +41,7 @@ template <class T>
 void QuickSort(vector<T>& arr, int start, int finish) {
 	if (finish - start <= 1) return;
 
-	static mt19937 generator(42); // генератор Мерсенна Твистера с фиксированным сидом
+	static mt19937 generator(42); // РіРµРЅРµСЂР°С‚РѕСЂ РњРµСЂСЃРµРЅРЅР° РўРІРёСЃС‚РµСЂР° СЃ С„РёРєСЃРёСЂРѕРІР°РЅРЅС‹Рј СЃРёРґРѕРј
 	uniform_int_distribution<int> dist(start, finish - 1);
 	T x = arr[dist(generator)];
 
